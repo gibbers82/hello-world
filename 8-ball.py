@@ -1,3 +1,5 @@
+# Script to make magic 8 ball app
+
 import random
 
 name = "Matt"
